@@ -1,0 +1,2 @@
+# WordPressCache
+这是一个通过请求Sitemap使WordPress生成缓存的Python项目
